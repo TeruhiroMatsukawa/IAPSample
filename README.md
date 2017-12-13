@@ -1,0 +1,2 @@
+# IAPSample
+SwiftyStoreKitを使用するにあたって、Mapperを作ってみた
